@@ -1,4 +1,4 @@
-## Welcome to Dr Chen Pages
+## Welcome to Dr Chen's Page
 
 - Products
 1. MIKit: view and manage DICOM images.
@@ -8,4 +8,4 @@
 
 Having trouble with App? [contact support](mailto:cocoadecsc@gmail.com) and we’ll help you sort it out.
 
-[edit page](https://github.com/applestdev/applestdev.github.io/edit/master/index.md)
+[//]:[edit page](https://github.com/applestdev/applestdev.github.io/edit/master/index.md)
