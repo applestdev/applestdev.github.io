@@ -1,7 +1,7 @@
 ## Welcome to Dr Chen Pages
 
 - Products
-1. MIKit: Vide and manage DICOM images.
+1. MIKit: view and manage DICOM images.
 2. Health Care: WIP.
 
 ### Support or Contact
