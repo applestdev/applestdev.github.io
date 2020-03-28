@@ -2,7 +2,8 @@
 
 ### Products
 - MIKit: view and manage DICOM images.
-- Health Care: WIP.
+- Health Care: Home Rededies and BMI Calculator.
+- Music Format Factory: Music Format Convert, Extract audio from video.
 
 ### Support or Contact
 
