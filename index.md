@@ -7,6 +7,6 @@
 
 ### Support or Contact
 
-Having trouble with App? [contact support](mailto:cocoadecsc@gmail.com) and we’ll help you sort it out.
+Having trouble with App? [contact support](mailto:cocoadevsc@gmail.com) and we’ll help you sort it out.
 
 [edit page](https://github.com/applestdev/applestdev.github.io/edit/master/index.md)
